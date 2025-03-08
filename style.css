@@ -1,0 +1,8 @@
+p {
+    color:white;
+    border: 2px solid powderblue;
+    /* diluar border */
+    margin: 200px 
+    /* didalam border */
+    padding: 30px; 
+}

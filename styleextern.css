@@ -1,0 +1,32 @@
+body{
+    background-color: darkcyan;
+    background-image: url(/img/Logo_Unand.svg\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: chartreuse;
+    text-indent: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h2{
+    text-align: center;
+    color: aqua;
+    text-transform: initial;
+}
+h3{
+    text-align: center;
+    color: brown;
+    text-decoration: line-through;
+}
+p{
+    text-align: justify;
+    color: black;
+    letter-spacing: normal;
+}

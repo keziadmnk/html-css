@@ -1,0 +1,31 @@
+header {
+    background-color: indianred;
+    padding: 15px;
+    margin: 0%
+}
+
+.nav-menu {
+    list-style:none;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding:20px;
+    margin:0;
+}
+
+.nav-menu li {
+    display: inline;
+}
+
+.nav-menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 25px;
+    transition: 0.5s;
+}
+
+.nav-menu a:hover {
+    color: #ffcc00;
+}
